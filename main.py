@@ -6,14 +6,14 @@ from heads.Banner import    ( banner, creador )
 
 session_name    = 'rex'
 regex           = r'\d{14,16}\|\d{1,2}\|\d{2,4}\|\d{3,4}'
-phone_number    = '+52 5644968614'
-api_id          = 24648014
-api_hash        = '3575a0f1524c2a08cc297fbd5355e318'
-bot_token       = '7028828829:AAH12Vb8mwnY5GXxc-9qF8Ij1qr2huQcFic'
-photo_free      = 'https://i.imgur.com/3xMKhXg.jpeg'
-chat_id_free    = -1002254488425
-photo_premium   = 'https://i.imgur.com/ZND2sko.jpeg'
-chat_id_premium = -1002254488425
+phone_number    = '+18298501406'
+api_id          = 20230546
+api_hash        = '687aa22188883fd3d995a41c928454fe'
+bot_token       = '7934220197:AAF8UshC65FvKaB3aCqJs1fM_8sjpi9luxE'
+photo_free      = 'https://imgur.com/zoAVQvs'
+chat_id_free    = -1002456099586
+photo_premium   = 'https://imgur.com/zoAVQvs'
+chat_id_premium = -1002438810625
 
 
 # Testeo de la clase TelegramConfig
