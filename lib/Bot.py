@@ -25,7 +25,7 @@ class SendPostMessage():
             'caption': self.text,
             'photo': self.photo,
             'parse_mode': 'html',
-            'reply_markup': {'inline_keyboard': [[{'text': '𝗥𝘂𝗴𝗿𝗮𝘁 𝗫𝗟𝗩 🇪🇺 𒆜', 'url': 'https://t.me/rugratxlv'}]]}}
+            'reply_markup': {'inline_keyboard': [[{'text': '🇩🇴𝕺𝖓𝖊 𝖙𝖊𝖈𝖍 𝕿𝖊𝖆𝖒 🇩🇴 𝓔𝓁 𝓟𝓪𝓽𝓻ó𝓷', 'url': 'https://t.me/+KaDXI8DMQW80MWYx'}]]}}
 
         self.response = self.client.post(
             url  = self.url, 
