@@ -1,4 +1,4 @@
-Plantilla_free = '''<b><i>↯ » ↯ 𝐓𝐨𝐤𝐲𝐨 𝐒𝐜𝐫𝐚𝐩𝐩𝐞𝐫 
+Plantilla_free = '''<b><i>↯ » ↯🇩🇴 𝐓𝐌-𝐒𝐜𝐫𝐚𝐩𝐩𝐞𝐫 𝐏𝐫𝐞𝐦𝐢𝐮𝐧🇩🇴 
 
 ↯ » card: <code>{}|{}|{}|{}</code>
 
@@ -10,7 +10,7 @@ Plantilla_free = '''<b><i>↯ » ↯ 𝐓𝐨𝐤𝐲𝐨 𝐒𝐜𝐫𝐚𝐩�
 ↯  » Bank:  <code>{}</code></i></b>'''
 
 
-Plantilla_Premium = '''<b><i>↯↯ » ↯ » 𝐓𝐨𝐤𝐲𝐨 𝐒𝐜𝐫𝐚𝐩𝐩𝐞𝐫 𝐋𝐢𝐯𝐞
+Plantilla_Premium = '''<b><i>↯↯ » ↯ » 🇩🇴 𝐓𝐌-𝐒𝐜𝐫𝐚𝐩𝐩𝐞𝐫 𝐏𝐫𝐞𝐦𝐢𝐮𝐧 𝐋𝐢𝐯𝐞🇩🇴
 
 ↯ » card: <code>{}|{}|{}|{}</code>
 ↯ » Status: Approved✅
