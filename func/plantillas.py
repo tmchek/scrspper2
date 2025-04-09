@@ -1,4 +1,4 @@
-Plantilla_free = '''<b><i> あ » <code>[{}]</code> 🇩🇴𝕺𝖓𝖊 𝖙𝖊𝖈𝖍 scrapper Free
+Plantilla_free = '''<b><i> 🥳 » <code>[{}]</code> 🇩🇴𝕺𝖓𝖊 𝖙𝖊𝖈𝖍 scrapper Free
 
 ⚡ 𝗖𝗰: <code>{}|{}|{}|{}</code>
 ⚡ 𝗘𝘅𝘁𝗿𝗮: <code>{}</code>
@@ -9,7 +9,7 @@ Plantilla_free = '''<b><i> あ » <code>[{}]</code> 🇩🇴𝕺𝖓𝖊 𝖙�
 
 
 
-Plantilla_Premium = '''<b><i>あ » <code>[{}]</code> 🇩🇴𝕺𝖓𝖊 𝖙𝖊𝖈𝖍 𝕿𝖊𝖆𝖒 🇩🇴 𝓔𝓁 𝓟𝓪𝓽𝓻ó𝓷 scrapper Premium [👑]
+Plantilla_Premium = '''<b><i>🥳 » <code>[{}]</code> 🇩🇴𝕺𝖓𝖊 𝖙𝖊𝖈𝖍 𝕿𝖊𝖆𝖒 🇩🇴 𝓔𝓁 𝓟𝓪𝓽𝓻ó𝓷 scrapper Premium [👑]
 
 ⚡ 𝗖𝗰: <code>{}|{}|{}|{}</code>
 ⚡ Status: Approved ✅
