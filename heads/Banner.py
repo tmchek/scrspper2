@@ -13,5 +13,5 @@ def banner():
     print(banner)
 
 def creador():
-    creador = Fore.BLUE +'''ريكس 「🐉」| ( @RexAw4it ) - V. 1.3'''
+    creador = Fore.BLUE +'''ريكس 「🐉」| ( @onetechpatron ) - V. 1.3'''
     print(creador)
