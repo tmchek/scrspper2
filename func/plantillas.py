@@ -1,4 +1,4 @@
-Plantilla_free = '''<b><i> あ » <code>[{}]</code> TM scrapper Free
+Plantilla_free = '''<b><i> 🥳 » <code>[{}]</code> TM scrapper Free
 
 ↯ » 𝗖𝗰 : <code>{}|{}|{}|{}</code>
 
@@ -10,7 +10,7 @@ Plantilla_free = '''<b><i> あ » <code>[{}]</code> TM scrapper Free
 ↯ » Bank:  <code>{}</code></i></b>'''
 
 
-Plantilla_Premium = '''<b><i>あ » <code>[{}]</code> TM scrapper Premium [👑] | 
+Plantilla_Premium = '''<b><i>🥳 » <code>[{}]</code> TM scrapper Premium [👑] | 
 
 ↯ » 𝗖𝗰 : <code>{}|{}|{}|{}</code>
 ↯ » Status: Approved✅
