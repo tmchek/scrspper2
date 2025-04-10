@@ -1,15 +1,17 @@
-from func.vbvGater import ( VBV3D )  # Cambié 'VbvGatereways' a 'VBV3D'
+from func.vbvGater import ( VbvGatereways )
 from src.Bin import         ( BinResponse )
 from src.Bot import         ( SendPostMessage )
 from src.Card import        ( FindsCard )
 from func.keywords import   ( keywords )
 from dataclasses import     ( dataclass )
-from re import              ( sub )
+from re import              (  sub )
 from colorama import        ( Fore)
 from telethon.sync import   ( TelegramClient, events)
 from func.plantillas import ( Plantilla_free, Plantilla_Premium )
 
-cards_list: set = set()
+
+
+cards_list:set = set()
 
 @dataclass
 class TelegramConfig:
@@ -78,7 +80,7 @@ class TelegramConfig:
                     
                     if letrasM in str(getMsg):
                 
-                        chs_vbv = VBV3D().main(ccs)  # Cambié 'VbvGatereways' a 'VBV3D'
+                        chs_vbv = VbvGatereways().main(ccs)
                         
                         texto_premium = Plantilla_Premium.format(
                                                                  bin_chk[2], 
@@ -143,7 +145,7 @@ class TelegramConfig:
                     
                     if letrasM in str(getMsg):
 
-                        chs_vbv = VBV3D().main(ccs)  # Cambié 'VbvGatereways' a 'VBV3D'
+                        chs_vbv = VbvGatereways().main(ccs)
                         
                         texto_premium = Plantilla_Premium.format(
                                                                  bin_chk[2], 
@@ -179,7 +181,6 @@ class TelegramConfig:
                 pass
             
         self.client.run_until_disconnected()
-
 
 
 
