@@ -19,7 +19,7 @@ class VbvGatereways:
     def main(self,card):
         try:
             self.session = Session()
-            self.session.proxies.update({'http': 'http://syuwkzwr-rotate:9pazpqi70wld@p.webshare.io:80','https': 'http://syuwkzwr-rotate:9pazpqi70wld@p.webshare.io:80'})
+           # self.session.proxies.update({'http': 'http://syuwkzwr-rotate:9pazpqi70wld@p.webshare.io:80','https': 'http://syuwkzwr-rotate:9pazpqi70wld@p.webshare.io:80'})
             self.uuid_client = str(uuid.uuid4())
             
 
