@@ -10,7 +10,7 @@ api_id          = 20230546
 api_hash        = '687aa22188883fd3d995a41c928454fe'
 bot_token       = '7934220197:AAEeyF0O5OKBfSG_ch-qmnYyzVaQ7huztmE'
 
-chat_id_free    = -1002456099586
+chat_id_free    = -1002571462367
 chat_id_premium = -1002267171264
 
 
